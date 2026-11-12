@@ -1,6 +1,6 @@
 cask "showtake" do
-  version "1.0.0,16"
-  sha256 "8e89d9d4bddc406fd28928e694b5ecc9a5daeb3400fdd85db32463a2bdcc5b20"
+  version "1.0.1,17"
+  sha256 "7ee037b50a8fce7ed22f09bb46dddb1a958386a67301e51f489bb68ac8fc147e"
 
   url "https://downloads.showtake.app/#{version.csv.first}/#{version.csv.second}/ShowTake_#{version.csv.first}_#{version.csv.second}.dmg"
   name "ShowTake"
